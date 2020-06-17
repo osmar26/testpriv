@@ -1,12 +1,1 @@
-Documento general:
-	-Definición del problema
-	-Definición de formatos y normas utilizadas
-	-Tabla de conceptos
-	-Descripción general del producto
-	-Restricciones
-	-Requerimientos en general
-WBS
-Estimación y tiempos
-Estimación de costos
-Plan de Riesgos
-Directorio
+AQUI NO HAY NADA
